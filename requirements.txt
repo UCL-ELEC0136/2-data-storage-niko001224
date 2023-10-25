@@ -1,0 +1,7 @@
+numpy
+requests
+jupyter
+jupyterlab
+mysql-connector-python
+pymongo
+dnspython
